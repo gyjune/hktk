@@ -16,7 +16,7 @@
       "key": "lf_js_lf_live",
       "name": "电视直播",
       "type": 3,
-      "api": "https://d.kstore.dev/download/8177/js/live.min.js",
+      "api": "https://8177.kstore.space/js/live.min.js",
       "style": {
         "type": "oval"
       },
@@ -24,7 +24,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://d.kstore.dev/download/8177/js/live.txt"
+      "ext": "https://8177.kstore.space/js/live.txt"
     },
     {
       "key": "js_豆瓣热播",
